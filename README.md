@@ -4,13 +4,14 @@
 MusicPlayer is a mini app that fetches Music from iTunes API
 
 ## API
-See (here)[https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api]
+See [here](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api)
 
 ## Features
 Searching and playing the music.
 
 ## How to launch
 - Open Xcode
+- Open terminal and `pod install`
 - Run
 - App will launch to the Simulator
 
